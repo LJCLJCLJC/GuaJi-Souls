@@ -1,0 +1,10 @@
+﻿id,单位名称,描述,icon,立绘,类型
+1,不死人,不死人,Undead,Undead,2
+2,战士,战士,Knight,Knight,0
+3,骑士,骑士,Warrior,Warrior,0
+4,法师,法师,Sorcerer,Sorcerer,0
+5,一无所有,一无所有,Deprived,Deprived,0
+6,刺客,刺客,Assassin,Assassin,0
+7,灰烬审判者——古达,灰烬审判者——古达,BOSS_1_GUDA,BOSS_1_GUDA,1
+8,冷冽谷的波尔多,冷冽谷的波尔多,BOSS_2_BOERDUO,BOSS_2_BOERDUO,1
+9,咒蚀大树,咒蚀大树,BOSS_3_DASHU,BOSS_3_DASHU,1

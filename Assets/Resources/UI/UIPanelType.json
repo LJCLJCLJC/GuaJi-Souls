@@ -1,0 +1,64 @@
+{
+    "infoList": [
+        {
+            "panelIDString": "BattlePanel",
+            "path": "UI/BattleScene/BattlePanel"
+        },
+        {
+            "panelIDString": "MapPanel",
+            "path": "UI/MapPanel/MapPanel"
+        },
+        {
+            "panelIDString": "MapInfoPanel",
+            "path": "UI/MapPanel/MapInfoPanel"
+        },
+        {
+            "panelIDString": "StartPanel",
+            "path": "UI/StartScene/StartPanel"
+        },
+        {
+            "panelIDString": "CreatePanel",
+            "path": "UI/StartScene/CreatePanel"
+        },
+        {
+            "panelIDString": "ChoosePanel",
+            "path": "UI/StartScene/ChoosePanel"
+        },
+        {
+            "panelIDString": "ConfirmPanel",
+            "path": "UI/Other/ConfirmPanel"
+        },
+        {
+            "panelIDString": "SkillPanel",
+            "path": "UI/SkillPanel/SkillPanel"
+        },
+        {
+            "panelIDString": "SkillDescPanel",
+            "path": "UI/SkillPanel/SkillDescPanel"
+        },
+        {
+            "panelIDString": "EquipPanel",
+            "path": "UI/EquipPanel/EquipPanel"
+        },
+        {
+            "panelIDString": "ItemPanel",
+            "path": "UI/ItemPanel/ItemPanel"
+        },
+        {
+            "panelIDString": "TipPanel",
+            "path": "UI/Other/TipPanel"
+        },
+        {
+            "panelIDString": "JiSiChangPanel",
+            "path": "UI/JiSiChangPanel/JiSiChangPanel"
+        },
+        {
+            "panelIDString": "ServantPanel",
+            "path": "UI/ServantPanel/ServantPanel"
+        },
+        {
+            "panelIDString": "ShopPanel",
+            "path": "UI/ShopPanel/ShopPanel"
+        }
+    ]
+}
